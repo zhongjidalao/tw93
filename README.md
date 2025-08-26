@@ -1,73 +1,62 @@
-## Hello,World!
+## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里飞猪写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of [MiaoYan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
 
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
+#### 🏊‍♂️ Weekly Development Breakdown
 
-<!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.0' target='_blank'>x-render v1.9.0</a> - 2022-01-27
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 主题配置更新防止 github warning</a> - 2020-08-16
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
-* <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
-<!-- recent_releases ends -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
 
 </td>
 <td valign="top" width="50%">
 
-#### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
+#### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
-<!-- weekly starts -->
-
-* [#71-开始断舍离](https://github.com/tw93/weekly/tree/main/md/%2371-%E5%BC%80%E5%A7%8B%E6%96%AD%E8%88%8D%E7%A6%BB.md) - 2022-03-21
-* [#70-悲伤的涂鸦](https://github.com/tw93/weekly/tree/main/md/%2370-%E6%82%B2%E4%BC%A4%E7%9A%84%E6%B6%82%E9%B8%A6.md) - 2022-03-21
-* [#69-桂语家面](https://github.com/tw93/weekly/tree/main/md/%2369-%E6%A1%82%E8%AF%AD%E5%AE%B6%E9%9D%A2.md) - 2022-03-07
-* [#68-河道工作者](https://github.com/tw93/weekly/tree/main/md/%2368-%E6%B2%B3%E9%81%93%E5%B7%A5%E4%BD%9C%E8%80%85.md) - 2022-02-28
-* [#67-科目二跑圈](https://github.com/tw93/weekly/tree/main/md/%2367-%E7%A7%91%E7%9B%AE%E4%BA%8C%E8%B7%91%E5%9C%88.md) - 2022-02-21
-* [#66-烤肉配薯条](https://github.com/tw93/weekly/tree/main/md/%2366-%E7%83%A4%E8%82%89%E9%85%8D%E8%96%AF%E6%9D%A1.md) - 2022-02-21
-
-<!-- weekly ends -->
+<!-- recent_releases starts -->
+* <a href='https://github.com/tw93/Pake/releases/tag/V3.2.16' target='_blank'>Pake V3.2.16 Cheeky 🐝</a> - 2025-08-22
+* <a href='https://github.com/tw93/Maple/releases/tag/V1.11' target='_blank'>Maple V1.11 Miss you 🍇</a> - 2025-08-11
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.18.3' target='_blank'>MiaoYan V1.18.3  Big Updates 🎉</a> - 2025-08-10
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0' target='_blank'>tw93.github.io V0.6 Better looking 🍓</a> - 2025-08-04
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.17.0' target='_blank'>MiaoYan V1.17 New Changes 🎉</a> - 2025-08-04
+<!-- recent_releases ends -->
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
-<!-- code_time starts -->
-
-```text
-TypeScript   2 hrs 39 mins  ███████████░░░░░░░░░░░░░  32.2%
-JSON          2 hrs 7 mins  █████████▓░░░░░░░░░░░░░░  25.7%
-JavaScript     1 hr 7 mins  ██████▓░░░░░░░░░░░░░░░░░  13.6%
-SCSS               35 mins  █████░░░░░░░░░░░░░░░░░░░   7.2%
-Markdown           30 mins  █████░░░░░░░░░░░░░░░░░░░   6.2%
-HTML               21 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.4%
-```
-
-<!-- code_time ends -->
+<!-- blog starts -->
+* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>我感觉到的 AI Coding 对于程序员的影响</a> - 2025-08-17
+* <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
+* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
+* <a href='https://tw93.fun/2025-02-02/my-2024.html' target='_blank'>2024 年总结 - 持续迭代</a> - 2025-02-02
+* <a href='https://tw93.fun/2024-10-13/intuition.html' target='_blank'>别相信直觉 - 读书笔记</a> - 2024-10-13
+<!-- blog ends -->
 
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
 
-<!-- blog starts -->
-* <a href='https://tw93.github.io/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
-* <a href='https://tw93.github.io/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
-* <a href='https://tw93.github.io/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
-* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
-<!-- blog ends -->
+<!-- weekly starts -->
+
+* <a href='https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/' target='_blank'>第235期 - 拍美术馆</a> - 2025-08-25
+* <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
+* <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
+* <a href='https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/' target='_blank'>第232期 - 小鱼小虾</a> - 2025-08-04
+* <a href='https://weekly.tw93.fun/posts/231-%E4%B8%80%E6%A0%91%E6%A9%98%E5%AD%90/' target='_blank'>第231期 - 一树橘子</a> - 2025-07-28
+<!-- weekly ends -->
 
 </td>
-  </tr>
-  </table>
+</tr>
 
-📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个十多人的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
+</table>
